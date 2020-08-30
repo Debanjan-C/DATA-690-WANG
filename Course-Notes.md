@@ -46,6 +46,10 @@
 - **Ipython**
     - The project had started in 2001 to develop a *more interactive* Python interpreter. 
     - designed to enhance your skills and productivity from the ground level in *interactive computing and software development*.
+    - It encourages a workflow where you can execute and explore as you go unlike a workflow where you have to edit, complie and then run. 
+- **Jupyter Notebook**
+    - Developed in 2014 by the *Ipython team* and the *ipython web notebook* had turned into the *Jupyter web notebook* and was supported by 40 programming languages. 
+    - IPython system can now be used as a *kernel or a programming language mode* for using Python with Jupyter.
 ### 5. **SciPy**
 - a collection of packages that address a number of different standard problem domains in scientific computing.
 - Some examples of the packages included are: 
