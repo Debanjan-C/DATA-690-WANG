@@ -130,7 +130,7 @@ samplers, continuous distribution functions. It is also used for multiple statis
     np.loads
     np.loadtxt  
     ```
-##The %run Command
+## The %run Command
 - One can run any file in a Python program inside the environment of their iPython session using **%run** command.
 - The script used in the command is run in an empty namespace where no imports or variables are shown or defined. Accordingly, the behavior of it should be the same as running the program on the command line.
 - If you want to give a script access to variables defined in the interactive namespace, we can use **%run -i** instead of the normal %run command. 
