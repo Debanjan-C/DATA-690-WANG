@@ -58,3 +58,6 @@ samplers, continuous distribution functions. It is also used for multiple statis
     - Clustering: k-means, spectral clustering, etc.
     - Preprocessing: Feature extraction, normalization.
     - and many more...
+### 6. **statsmodels**
+- statistical analysis package created by the stats professor in Stanford University - Johnathan Taylor.
+    - implemented many *regression analysis models* commonly popular in R programming language. 
