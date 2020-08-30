@@ -66,4 +66,3 @@ samplers, continuous distribution functions. It is also used for multiple statis
     - Regression models: Linear Regression, Generalized regression models, etc.
     - Anaysis of Variance or ANOVA
     - Time series analysis: AR, ARMA, ARIMA and many other models.
-    -
