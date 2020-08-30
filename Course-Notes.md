@@ -61,3 +61,9 @@ samplers, continuous distribution functions. It is also used for multiple statis
 ### 6. **statsmodels**
 - statistical analysis package created by the stats professor in Stanford University - Johnathan Taylor.
     - implemented many *regression analysis models* commonly popular in R programming language. 
+- Similar to scikit-learn, statsmodels also contain algorithms for *classical(frequentist) statistics and econometrics*.
+- It includes submodules like: 
+    - Regression models: Linear Regression, Generalized regression models, etc.
+    - Anaysis of Variance or ANOVA
+    - Time series analysis: AR, ARMA, ARIMA and many other models.
+    -
