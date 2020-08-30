@@ -48,3 +48,5 @@
     - `scipy.integrate` - Numerical Integration routines and diferential equation solvers.
     - `scipy.linalg` - Linear algebra routines and matrix decompositions extending beyond those provided
 in `numpy.linalg`.
+    - `scipy.stats` - A continuous and discrete probability distributions like density functions,
+samplers, continuous distribution functions. It is also used for multiple statistical tests and descriptive statistics.
