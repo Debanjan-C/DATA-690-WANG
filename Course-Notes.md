@@ -117,7 +117,6 @@ samplers, continuous distribution functions. It is also used for multiple statis
         -Length:      3
         -Docstring:  
         -Built-in mutable sequence.
-
         -If no argument is given, the constructor creates a new empty list.
         -The argument must be an iterable if specified.
 
