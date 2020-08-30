@@ -104,3 +104,6 @@ samplers, continuous distribution functions. It is also used for multiple statis
 ## Tab Completion
 - It is one of the major improvements over the standard Python shell.
 - While entering expressions in shells, pressing the *Tab* key will search the namespace for any variables (objects, functions, etc.) trying to match the characters taht have been typed so far.
+
+# Introspection
+- Using a question mark before or after a variable gives information about it and this is called *Introspection*.
