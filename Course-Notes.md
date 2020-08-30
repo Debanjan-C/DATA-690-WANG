@@ -1,6 +1,6 @@
 ## Chapter 1 Notes
 
-# Kinds of Data
+# Types of data used
 1. We are mainly focusing on **structured data** for this chapter. Some examples are:
     - Tabular or Spreadsheet - Each column of the data may be of different types like
       numeric, date, string, etc. These are commonly found in relational databases or comma
