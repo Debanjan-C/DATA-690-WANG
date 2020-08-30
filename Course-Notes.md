@@ -101,3 +101,6 @@ samplers, continuous distribution functions. It is also used for multiple statis
 - On many platforms it opens up automatically on your default web browser. 
 - Many use Jupyter as a local computing environment. However, it can also be deployed on servers and accessed remotely.
 
+## Tab Completion
+- It is one of the major improvements over the standard Python shell.
+- While entering expressions in shells, pressing the *Tab* key will search the namespace for any variables (objects, functions, etc.) trying to match the characters taht have been typed so far.
