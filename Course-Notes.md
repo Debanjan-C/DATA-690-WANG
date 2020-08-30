@@ -54,7 +54,7 @@
 in `numpy.linalg`.
     - `scipy.stats` - A continuous and discrete probability distributions like density functions,
 samplers, continuous distribution functions. It is also used for multiple statistical tests and descriptive statistics.
-### 5. **scikit-learn**
+### 6. **scikit-learn**
 - Came into existence in 2010.
 - It has been the main *machine learning toolkit* for python programmers.
 - Includes *submodules* for models like:
@@ -62,7 +62,7 @@ samplers, continuous distribution functions. It is also used for multiple statis
     - Clustering: k-means, spectral clustering, etc.
     - Preprocessing: Feature extraction, normalization.
     - and many more...
-### 6. **statsmodels**
+### 7. **statsmodels**
 - statistical analysis package created by the stats professor in Stanford University - Johnathan Taylor.
     - implemented many *regression analysis models* commonly popular in R programming language. 
 - Similar to scikit-learn, statsmodels also contain algorithms for *classical(frequentist) statistics and econometrics*.
