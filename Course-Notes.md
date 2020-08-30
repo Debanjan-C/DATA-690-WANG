@@ -109,9 +109,9 @@ samplers, continuous distribution functions. It is also used for multiple statis
 - Using a question mark before or after a variable gives information about it and this is called *Introspection*.
 
 `c = [1, 2, 3]
-c?`
- `Output: 
- Type:        list
+c?
+Output: 
+Type:        list
 String form: [1, 2, 3]
 Length:      3
 Docstring:  
