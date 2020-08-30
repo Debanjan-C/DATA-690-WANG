@@ -40,7 +40,7 @@
      - Numpy also serves as a *container for data* to be passed along algorithms and libraries.
 2. **Pandas**
     - came into emergence in 2010.
-    - provides high level data structures and functions and that helps us work woth structured and tabular data in a fast, easy and expressive way. 
+    - provides high level data structures and functions and that helps us work woth structured and tabular data in a *fast, easy and expressive way*.
     - **Primary objects** in Pandas:
         - *DataFrames* - tabular and column oriented data structure that has both the rows and columns.
         - *Series* - one dimensional labeled array objects
