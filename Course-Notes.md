@@ -82,3 +82,6 @@ samplers, continuous distribution functions. It is also used for multiple statis
     - Python tools for visual studio (for Windows users)
     - Spyder - IDE shipped with Anaconda
     - Komodo IDE
+  
+# Chapter 2 Notes
+  
