@@ -90,3 +90,14 @@ samplers, continuous distribution functions. It is also used for multiple statis
 - It runs by executing one program at a time. 
     - `python` command can be used in the python terminal to see the version of python installed and it is `!python` in Jupyter notebook. 
     - `exit()` interpreter is used to exit from the interpreter.
+    
+## iPython Basics
+- `ipython` command is the command necessary to launch ipython from the command line. 
+- python statements can be ran by typing them and pressing enter and you can just type the variables name and hit enter to see the result of the variable.
+- You can also use Jupyter notebook while writing larger blocks of code over the iPython terminal.
+
+## Jupyter Notebook
+- interacts with *kernels* or implementations of the Jupyter interactive computing protocol in a number of programming languages.
+- On many platforms it opens up automatically on your default web browser. 
+- Many use Jupyter as a local computing environment. However, it can also be deployed on servers and accessed remotely.
+
