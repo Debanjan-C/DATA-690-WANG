@@ -42,3 +42,5 @@
 ### 3. **Matplotlib** 
 - originally created by John D. Hunter and is now maintained by a large team of developers.
 - most popular python library to produce plots and other two-dimensional data visualizations.
+### 4. **SciPy**
+- a collection of packages that address a number of different standard problem domains in scientific computing.
