@@ -45,6 +45,6 @@
 ### 4. **SciPy**
 - a collection of packages that address a number of different standard problem domains in scientific computing.
 - Some examples of the packages included are: 
-    -`scipy.integrate` - Numerical Integration routines and diferential equation solvers.
-    -`scipy.linalg` - Linear algebra routines and matrix decompositions extending beyond those provided
+    - `scipy.integrate` - Numerical Integration routines and diferential equation solvers.
+    - `scipy.linalg` - Linear algebra routines and matrix decompositions extending beyond those provided
 in `numpy.linalg`.
