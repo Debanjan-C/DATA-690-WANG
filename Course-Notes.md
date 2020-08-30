@@ -105,7 +105,7 @@ samplers, continuous distribution functions. It is also used for multiple statis
 - It is one of the major improvements over the standard Python shell.
 - While entering expressions in shells, pressing the *Tab* key will search the namespace for any variables (objects, functions, etc.) trying to match the characters taht have been typed so far.
 
-# Introspection
+## Introspection
 - Using a question mark before or after a variable gives information about it and this is called *Object Introspection*.
     ```
     c = [1, 2, 3]
@@ -130,3 +130,11 @@ samplers, continuous distribution functions. It is also used for multiple statis
     np.loads
     np.loadtxt  
     ```
+##The %run Command
+- One can run any file in a Python program inside the environment of their iPython session using **%run** command.
+- The script used in the command is run in an empty namespace where no imports or variables are shown or defined. Accordingly, the behavior of it should be the same as running the program on the command line.
+- If you want to give a script access to variables defined in the interactive namespace, we can use **%run -i** instead of the normal %run command. 
+- *%load ipython_script_test.py* will allow you to see the entire script in the Jupyter notebook 
+   
+   
+  
