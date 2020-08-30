@@ -24,21 +24,21 @@
 1. Most Python codes may run slower than Java or C++ code. However, many believe that a *programmer's time* is more valuable than the *CPU's time* and that is why they prefer to use python.
 2. Python can be a difficult language to use when we are building highly concurrent and multi-threaded applications and mainly the applications with **CPU bound threads**.
 
- ## Important Libraries used in Python 
- ### 1. **Numpy** - *Numerical Python*
- - provides data structures, algorithms and library glue that is necessary for the scientific applications that involve *numerical data* in Python.
-         - contains a fast and efficient multidimensional array objects called *ndarray*.
-         - contains functions to perform element - wise computations with arrays and mathematical operations between arrays.
-         - Linear algebra operations like *fourier transform* and *random number generations*.
-         - Numpy also serves as a *container for data* to be passed along algorithms and libraries.
+## Important Libraries used in Python 
+### 1. **Numpy** - *Numerical Python*
+- provides data structures, algorithms and library glue that is necessary for the scientific applications that involve *numerical data* in Python.
+- contains a fast and efficient multidimensional array objects called *ndarray*.
+- contains functions to perform element - wise computations with arrays and mathematical operations between arrays.
+- Linear algebra operations like *fourier transform* and *random number generations*.
+- Numpy also serves as a *container for data* to be passed along algorithms and libraries.
 ### 2. **Pandas** - derived from *Panel Data*
 - came into emergence in 2010.
-    - provides high level data structures and functions and that helps us work woth structured and tabular data in a *fast, easy and expressive way*.
-    - **Primary objects** in Pandas:
-        - *DataFrames* - tabular and column oriented data structure that has both the rows and columns.
-        - *Series* - one dimensional labeled array objects
-    - provides indexing functionality that helps us reshape, slice and dice, perform aggregations, and select subsets of data.
-    - this library is one of the primary focuses int he book as **data manipulation, data preparation and data cleaning** are important parts of data science.
+- provides high level data structures and functions and that helps us work woth structured and tabular data in a *fast, easy and expressive way*.
+- **Primary objects** in Pandas:
+    - *DataFrames* - tabular and column oriented data structure that has both the rows and columns.
+    - *Series* - one dimensional labeled array objects
+- provides indexing functionality that helps us reshape, slice and dice, perform aggregations, and select subsets of data.
+- this library is one of the primary focuses int he book as **data manipulation, data preparation and data cleaning** are important parts of data science.
 ### 3. **Matplotlib** 
 - originally created by John D. Hunter and is now maintained by a large team of developers.
-    - most popular python library to produce plots and other two-dimensional data visualizations.
+- most popular python library to produce plots and other two-dimensional data visualizations.
