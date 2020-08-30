@@ -42,7 +42,11 @@
 ### 3. **Matplotlib** 
 - originally created by John D. Hunter and is now maintained by a large team of developers.
 - most popular python library to produce plots and other two-dimensional data visualizations.
-### 4. **SciPy**
+### 4. Ipython and Jupyter notebook 
+- **Ipython**
+    - The project had started in 2001 to develop a *more interactive* Python interpreter. 
+    - designed to enhance your skills and productivity from the ground level in *interactive computing and software development*.
+### 5. **SciPy**
 - a collection of packages that address a number of different standard problem domains in scientific computing.
 - Some examples of the packages included are: 
     - `scipy.integrate` - Numerical Integration routines and diferential equation solvers.
@@ -66,3 +70,4 @@ samplers, continuous distribution functions. It is also used for multiple statis
     - Regression models: Linear Regression, Generalized regression models, etc.
     - Anaysis of Variance or ANOVA
     - Time series analysis: AR, ARMA, ARIMA and many other models.
+ 
