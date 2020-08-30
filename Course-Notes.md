@@ -107,16 +107,18 @@ samplers, continuous distribution functions. It is also used for multiple statis
 
 # Introspection
 - Using a question mark before or after a variable gives information about it and this is called *Object Introspection*.
+    ```
+    c = [1, 2, 3]
+    c?
 
-    -c = [1, 2, 3]
-    -c?
-
-    -Output: 
-        -Type:        list
-        -String form: [1, 2, 3]
-        -Length:      3
-        -Docstring:  
-        -Built-in mutable sequence.
-        -If no argument is given, the constructor creates a new empty list.
-        -The argument must be an iterable if specified.
-   
+    Output: 
+        Type:        list
+        String form: [1, 2, 3]
+        Length:      3
+        Docstring:  
+        Built-in mutable sequence.
+        If no argument is given, the constructor creates a new empty list.
+        The argument must be an iterable if specified.
+    ```
+ - **"?"** can also be used in the scenario where a number of characters combined with the *wildcard(*)* will show us all of the names that are matching the wildcard expression. An *example* is shown below:
+    
