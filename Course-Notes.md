@@ -85,3 +85,8 @@ samplers, continuous distribution functions. It is also used for multiple statis
   
 # Chapter 2 Notes
   
+## The Python Interpreter
+- Python is an interpreted language. 
+- It runs by executing one program at a time. 
+    - `python` command can be used in the python terminal to see the version of python installed and it is `!python` in Jupyter notebook. 
+    - `exit()` interpreter is used to exit from the interpreter.
