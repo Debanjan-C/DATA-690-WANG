@@ -50,3 +50,11 @@
 in `numpy.linalg`.
     - `scipy.stats` - A continuous and discrete probability distributions like density functions,
 samplers, continuous distribution functions. It is also used for multiple statistical tests and descriptive statistics.
+### 5. **scikit-learn**
+- Came into existence in 2010.
+- It has been the main *machine learning toolkit* for python programmers.
+- Includes *submodules* for models like:
+    - Regression: Lasso, ridge regression, etc.
+    - Clustering: k-means, spectral clustering, etc.
+    - Preprocessing: Feature extraction, normalization.
+    - and many more...
