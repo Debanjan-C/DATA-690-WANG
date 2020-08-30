@@ -42,6 +42,6 @@
     - came into emergence in 2010.
     - provides high level data structures and functions and that helps us work woth structured and tabular data in a fast, easy and expressive way. 
     - **Primary objects** in Pandas:
-        - **DataFrames** - tabular and column oriented data structure that has both the rows and columns.
-        - **Series** - one dimensional labeled array objects
+        - *DataFrames* - tabular and column oriented data structure that has both the rows and columns.
+        - *Series* - one dimensional labeled array objects
      
