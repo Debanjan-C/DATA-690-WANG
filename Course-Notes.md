@@ -75,3 +75,10 @@ samplers, continuous distribution functions. It is also used for multiple statis
     - Anaysis of Variance or ANOVA
     - Time series analysis: AR, ARMA, ARIMA and many other models.
  
+## Other examples of Integrated Development Environments (IDE) and Text Editors
+- There are benefits of using iPython with a text editor if you are writing a program and testing each partor section one after the other, but if you are doing software development, the following IDE's are recommended.
+    - PyDev - an IDE built on Eclipse Platform.
+    - PyCharm - built from JetBrains
+    - Python tools for visual studio (for Windows users)
+    - Spyder - IDE shipped with Anaconda
+    - Komodo IDE
