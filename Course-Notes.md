@@ -121,4 +121,12 @@ samplers, continuous distribution functions. It is also used for multiple statis
         The argument must be an iterable if specified.
     ```
  - **"?"** can also be used in the scenario where a number of characters combined with the *wildcard(*)* will show us all of the names that are matching the wildcard expression. An *example* is shown below:
+    ```
+    np.*load*?
     
+    Output: 
+    np.__loader__
+    np.load
+    np.loads
+    np.loadtxt  
+    ```
