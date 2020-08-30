@@ -44,4 +44,5 @@
     - **Primary objects** in Pandas:
         - *DataFrames* - tabular and column oriented data structure that has both the rows and columns.
         - *Series* - one dimensional labeled array objects
-     
+    - provides indexing functionality that helps us reshape, slice and dice, perform aggregations, and select subsets of data.
+    - this library is one of the primary focuses int he book as **data manipulation, data preparation and data cleaning** are important parts of data science.
