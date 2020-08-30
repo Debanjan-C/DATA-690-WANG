@@ -1,6 +1,39 @@
 ## My to-do list for this weekend
 # Tasks
 1. Understand the *Homework 1* document.
-2. Set up a new repository and name it **DATA-690-WANG**.
-3. Read the first two chapters in **textbook**.
+2. Set up a new repository and name it **DATA-690-WANG**
+3. Read the first two chapters in **textbook**
 4. Work on the *examples* in the book.
+
+## Chapter 1 Notes
+
+# Kinds of Data
+1. We are mainly focusing on **structured data** for this chapter. Some examples are:
+    - Tabular or Spreadsheet - Each column of the data may be of different types like
+      numeric, date, string, etc. These are commonly found in relational databases or comma
+      delimited files like CSV files.
+    - Multidimensional arrays or matrices are a good example.
+    - Multiple tables of with co-related data that is related through the primary key of one 
+      table and the foreign key of another table.
+    - Time series that are evenly or unevenly spaced out.
+    - and there are many other examples.
+    ....
+ 
+# Python
+1. First appearance was in 1991 and it was one of the most popular interpreted programming languages with Ruby, Perl and any others.
+    - Since 2005, Python and Ruby have become a great option for developing websites using a number of 
+      frameworks like Django for Python and Rails for Ruby.
+    - These languages are called scripting languages as they can be used to write small programs or      scripts and use it to automate other tasks. 
+2. Python is one of the most important languages for Data Science, Machine Learning and general Software Engineering in academia and many industries.
+    - In terms of data analysis, interactive computing and data visualization, python has similarities with other programming languages like R, MATLAB, SAS, STATA and many others. 
+
+# Why some may not want to use Python.
+1. Most Python codes may run slower than Java or C++ code. However, many believe that a *programmer's time* is more valuable than the *CPU's time* and that is why they prefer to use python.
+2. Python can be a difficult language to use when we are building highly concurrent and multi-threaded applications and mainly the applications with **CPU bound threads**.
+
+ # Important Libraries used in Python 
+ 1. Numpy - Numerical Python.
+     - provides data structures, algorithms and library glue that is necessary for the scientific applications that involve *numerical data* in Python.
+     - contains a fast and efficient multidimensional array objects called *ndarray*.
+     - contains functions to perform element - wise computations with arrays and mathematical operations between arrays.
+     - Linear algebra operations like **fourier transform** and **random number generations**.
