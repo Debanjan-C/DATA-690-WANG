@@ -198,3 +198,5 @@ results.append(line.replace('foo', 'bar'))
 
 ## 6. Attributes and methods
 - Objects in Python have both *attributes* and *methods* Both can be accessed by the syntax, `obj.attribute_name`.
+    - *attributes* :- objects that are stored inside the object.
+    - *methods* :- functions asociated with an object that can also have access to the object's internal data.
