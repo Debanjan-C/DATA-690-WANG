@@ -1,3 +1,6 @@
+Debanjan Chowdhury
+Data 690 - Stats and Viz
+
 # Chapter 1 Notes
 
 ## Types of data used
@@ -297,7 +300,8 @@ fval = float(s) -This is a type conversion from string ot float.
     -it will iterate and show a range of characters.
     
 ### 6. Ternary Expression
-    - allows you to combine *if-else* statements into one line. 
+    - allows you to combine if-else statements into one line. 
+    
 ### I gave a few common examples of control flow. There are also many more examples.
 
 
