@@ -151,13 +151,14 @@ samplers, continuous distribution functions. It is also used for multiple statis
 
 ### 1. Python language semantics.
 - They use tabs or spaces *(mainly whitespaces)* instead of braces to structure code like in R, C++, etc.
-    '''
+
+    ```
     for x in array:
         if x < pivot:
             less.append(x)
         else:
             greater.append(x)
-    '''
+    ```
 
 - 
   
