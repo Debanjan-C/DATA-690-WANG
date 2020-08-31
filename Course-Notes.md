@@ -190,3 +190,4 @@ results.append(line.replace('foo', 'bar'))
     `a = [1, 2, 3]`
     - Let us assume to a new variable 'b':
     `b = a`
+- In other languages, the list `[1, 2, 3]` would be copied into b. However, in python, both *a* and *b* refer to the same object or the original list  `[1, 2, 3]`. They point to the list instead of copying it into the object.
