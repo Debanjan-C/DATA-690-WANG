@@ -185,3 +185,8 @@ results.append(line.replace('foo', 'bar'))
     `g()`
 - Almost every object in Python has attached functions that are known as **methods** and they have access to the objects internal contents. they call be called using the syntax mentioned below:
     `obj.some_method(x, y, z)`
+## Variables and argument passing
+- When we assign a variable or a name in Python, we are creating a reference to the object on the right side of the equal sign. One example can be the list below: 
+    `a = [1, 2, 3]'
+    - Let us assume to a new variable 'b':
+    `b = a`
