@@ -193,4 +193,5 @@ results.append(line.replace('foo', 'bar'))
 - In other languages, the list `[1, 2, 3]` would be copied into b. However, in python, both *a* and *b* refer to the same object or the original list  `[1, 2, 3]`. They point to the list instead of copying it into the object.
 - If you bind a new object to a variable inside a specific function, the change will not be reflected in parent scope. It is therefore possible to alter the internals mutable arguments.
 
+- `'5' + 5` - We cannot add a string to an int data type. We will get a *TypeError*. 
  
