@@ -184,3 +184,4 @@ results.append(line.replace('foo', 'bar'))
     `result = f(x, y, z)`
     `g()`
 - Almost every object in Python has attached functions that are known as **methods** and they have access to the objects internal contents. they call be called using the syntax mentioned below:
+    `obj.some_method(x, y, z)`
