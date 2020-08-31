@@ -160,7 +160,7 @@ samplers, continuous distribution functions. It is also used for multiple statis
             greater.append(x)
     ```
     - *colon* - shows the start of an indentation block after which all lines of code must be indented to the same amount till the end of the block.
-    - Python statements do not always need to be terminated with semi-colons. but they can be used to seperate multiple statements on one single line. *See the example below:* 
+    - Python statements do not always need to be terminated with semi-colons. but they can be used to seperate multiple statements on one single line. *See the following example:* 
     `a = 5; b = 6; c = 7`
     
     
