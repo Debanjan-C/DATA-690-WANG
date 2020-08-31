@@ -168,7 +168,7 @@ samplers, continuous distribution functions. It is also used for multiple statis
 - *python object* is when every number, string, data structure, function, class, module and all exists in the Python interpreter in its own class.
     - Each *object* has an associated type (string, int) and its own internal data. 
     
-## 3. Comments 
+### 3. Comments 
 - **(#)** describes that something is a single line comment and is ignored by the interpreter. When you want to delete certain blocks of code without deleting them then this is a way. An example of multiple lines commented is shown *below*:
 ```
 results = []
@@ -179,13 +179,13 @@ for line in file_handle:
 results.append(line.replace('foo', 'bar'))
 ```
 
-## 4. Functions and object method calls
+### 4. Functions and object method calls
 - Functions that are using parentheses and passing zero or more arguments like in the second line below. You can also assign a return value to a variable like in the first line below. 
     `result = f(x, y, z)`
     `g()`
 - Almost every object in Python has attached functions that are known as **methods** and they have access to the objects internal contents. they call be called using the syntax mentioned below:
     `obj.some_method(x, y, z)`
-## 5. Variables and argument passing
+### 5. Variables and argument passing
 - When we assign a variable or a name in Python, we are creating a reference to the object on the right side of the equal sign. One example can be the list below: 
     `a = [1, 2, 3]`
     - Let us assume to a new variable 'b':
@@ -196,17 +196,17 @@ results.append(line.replace('foo', 'bar'))
 - `'5' + 5` - We cannot add a string to an int data type. We will get a *TypeError*. 
 - If you divide a floating point number with a whole number then we end up getting a floating point number. If we *divide 4.5 by 2* then we get the number `2.25`
 
-## 6. Attributes and methods
+### 6. Attributes and methods
 - Objects in Python have both *attributes* and *methods* Both can be accessed by the syntax, `obj.attribute_name`.
     - *attributes* :- objects that are stored inside the object.
     - *methods* :- functions asociated with an object that can also have access to the object's internal data.
 
-## 7. Duck Typing
+### 7. Duck Typing
 - This is when we can check that the object has certain *methods and behaviors* to understand that it is a specific method.
 - The term *duck typing* comes from the saying: "If it walks like a duck ans quacks like a duck then it is a duck"
     - The statement above tells us that a method like quack() could show us that the object is of Duck type or a duck object.
 
-## 8. Binary operators and comparisons
+### 8. Binary operators and comparisons
 - To check if two references refer to the same object we use the *is* keyword. Example:
  `a is b` may return `true or false`
 - One o the common use of *is and is not* is when we check if a variable is *None* as only one instance of *None* exists.
@@ -217,6 +217,8 @@ a is None
 Output: True
 ```
 
-## 9. Mutable and immutable objects
+### 9. Mutable and immutable objects
 - Examples of *mutable objects*: lists, dicts, NumPy arrays, and most user-defined data types like clases.
 - Examples of *immutable objects*: strings and tuples.
+
+
