@@ -221,4 +221,11 @@ Output: True
 - Examples of *mutable objects*: lists, dicts, NumPy arrays, and most user-defined data types like clases.
 - Examples of *immutable objects*: strings and tuples.
 
+## Scalar Types
+- Along with the standard library, Python has a small set of built-in types to handle numerical data, strings, booleans and dates/time.
+    - These *single value* data are referred to a **scalar** data types
+### 1. Numeric Types
+- The primary *numeric types* in Python are **int** and **float**. Int have whole numbers only while float can have both whole numbers and decimals. 
+    - Examples of Int: 3, 4, 5
+    - Examples of Float: 3.4, 5.6, 29
 
