@@ -136,5 +136,16 @@ samplers, continuous distribution functions. It is also used for multiple statis
 - If you want to give a script access to variables defined in the interactive namespace, we can use **%run -i** instead of the normal %run command. 
 - *%load ipython_script_test.py* will allow you to see the entire script in the Jupyter notebook 
    
-   
+## Magic Commands
+- These are *iPython special commands* that are also built into *magic commands*. 
+- designed to facilitate common tasks and enable an individual to easily control the behavior of an IPython system. 
+- A magic function can be used without the percentage sign, but there should be no other variables that have the same name as that specific *magic command*.
+
+## Matplotlib Integration
+- Ipython also integrates well with *data visualization* and other *user interface libraries* like **matplotlib**. 
+    - `%matplotlib` magic function configures its integrations with an IPython shell or Jupyter notebook.
+    1. Matplotlib command in *IPython shell*: `%matplotlib`
+    2. Matplotlib command in *Jupyter notebook*: `%matplotlib inline`
+
+
   
