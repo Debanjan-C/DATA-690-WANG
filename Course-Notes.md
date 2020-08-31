@@ -200,3 +200,17 @@ results.append(line.replace('foo', 'bar'))
 - Objects in Python have both *attributes* and *methods* Both can be accessed by the syntax, `obj.attribute_name`.
     - *attributes* :- objects that are stored inside the object.
     - *methods* :- functions asociated with an object that can also have access to the object's internal data.
+
+## 7. Duck Typing
+- This is when we can check that the object has certain *methods and behaviors* to understand that it is a specific method.
+- The term *duck typing* comes from the saying: "If it walks like a duck ans quacks like a duck then it is a duck"
+    - The statement above tells us that a method like quack() could show us that the object is of Duck type or a duck object.
+
+## 8. Binary operators and comparisons
+- To check if two references refer to the same object we use the *is* keyword. Example:
+ `a is b` may return `true or false`
+- One o the common use of *is and is not* is when we check if a variable is *None* as only one instance of *None* exists.
+`a = None
+a is None
+
+Output: True`
