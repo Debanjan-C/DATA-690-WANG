@@ -179,5 +179,8 @@ for line in file_handle:
 results.append(line.replace('foo', 'bar'))
 ```
 
-
-
+## 4. Functions and object method calls
+- Functions that are using parentheses and passing zero or more arguments like in the second line below. You can also assign a return value to a variable like in the first line below. 
+    `result = f(x, y, z)`
+    `g()`
+- Almost every object in Python has attached functions that are known as **methods** and they have access to the objects internal contents. they call be called using the syntax mentioned below:
