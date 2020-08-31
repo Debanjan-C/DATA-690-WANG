@@ -216,3 +216,7 @@ a is None
 
 Output: True
 ```
+
+## 9. Mutable and immutable objects
+- Examples of *mutable objects*: lists, dicts, NumPy arrays, and most user-defined data types like clases.
+- Examples of *immutable objects*: strings and tuples.
