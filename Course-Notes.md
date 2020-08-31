@@ -147,5 +147,17 @@ samplers, continuous distribution functions. It is also used for multiple statis
     1. Matplotlib command in *IPython shell*: `%matplotlib`. Matplotlib sets up integration so multiple plot windows can be created without interfering the console session.
     2. Matplotlib command in *Jupyter notebook*: `%matplotlib inline`. This command is used more often in the Jupyter notebook. 
 
+## Python Language Basics
 
+### 1. Python language semantics.
+- They use tabs or spaces *(mainly whitespaces)* instead of braces to structure code like in R, C++, etc.
+    '''
+    for x in array:
+        if x < pivot:
+            less.append(x)
+        else:
+            greater.append(x)
+    '''
+
+- 
   
