@@ -210,7 +210,9 @@ results.append(line.replace('foo', 'bar'))
 - To check if two references refer to the same object we use the *is* keyword. Example:
  `a is b` may return `true or false`
 - One o the common use of *is and is not* is when we check if a variable is *None* as only one instance of *None* exists.
-`a = None
+```
+a = None
 a is None
 
-Output: True`
+Output: True
+```
