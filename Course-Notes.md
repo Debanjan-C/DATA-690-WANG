@@ -194,4 +194,4 @@ results.append(line.replace('foo', 'bar'))
 - If you bind a new object to a variable inside a specific function, the change will not be reflected in parent scope. It is therefore possible to alter the internals mutable arguments.
 
 - `'5' + 5` - We cannot add a string to an int data type. We will get a *TypeError*. 
- 
+- If you divide a floating point number with a whole number then we end up getting a floating point number. If we *divide 4.5 by 2* then we get the number `2.25`
