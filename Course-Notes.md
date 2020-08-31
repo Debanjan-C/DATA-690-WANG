@@ -187,6 +187,6 @@ results.append(line.replace('foo', 'bar'))
     `obj.some_method(x, y, z)`
 ## Variables and argument passing
 - When we assign a variable or a name in Python, we are creating a reference to the object on the right side of the equal sign. One example can be the list below: 
-    `a = [1, 2, 3]'
+    `a = [1, 2, 3]`
     - Let us assume to a new variable 'b':
     `b = a`
