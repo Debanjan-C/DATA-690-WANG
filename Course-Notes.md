@@ -163,6 +163,21 @@ samplers, continuous distribution functions. It is also used for multiple statis
     - Python statements do not always need to be terminated with semi-colons. but they can be used to seperate multiple statements on one single line. *See the following example:* 
     `a = 5; b = 6; c = 7`
     
+### 2. Object
+- *object model* is an important characteristic of the Python language.
+- *python object* is when every number, string, data structure, function, class, module and all exists in the Python interpreter in its own class.
+    - Each *object* has an associated type (string, int) and its own internal data. 
     
+## 3. Comments 
+- **#** describes that something is a single line comment and is ignored by the interpreter. When you want to delete certain blocks of code without deleting them then this is a way. An example of multiple lines commented is shown *below*:
+```
+results = []
+for line in file_handle:
+# keep the empty lines for now
+# if len(line) == 0:
+# continue
+results.append(line.replace('foo', 'bar'))
+```
 
-  
+
+
