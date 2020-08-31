@@ -226,6 +226,17 @@ Output: True
     - These *single value* data are referred to a **scalar** data types
 ### 1. Numeric Types
 - The primary *numeric types* in Python are **int** and **float**. Int have whole numbers only while float can have both whole numbers and decimals. 
-    - Examples of Int: 3, 4, 5
-    - Examples of Float: 3.4, 5.6, 29
-
+    - Examples of Int: 3, 4, 5. It can arbirtrarily store large numbers.
+    - Examples of Float: 3.4, 5.6, 29. Each float item is double precision or 64-bit value.
+    
+### 2. Strings
+- Python is also known for its powerful and flexible built-in string processing capabilities.
+    - One way to write strings is *single quotes* : `'one way'`
+    - Second way to write strings is *double quotes* : `"second way"`
+- We also have multi-line strings written in the following format.
+    ```
+    """
+    This is a longer string that
+    spans multiple lines
+    """
+    ```
