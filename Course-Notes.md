@@ -169,7 +169,7 @@ samplers, continuous distribution functions. It is also used for multiple statis
     - Each *object* has an associated type (string, int) and its own internal data. 
     
 ## 3. Comments 
-- **#** describes that something is a single line comment and is ignored by the interpreter. When you want to delete certain blocks of code without deleting them then this is a way. An example of multiple lines commented is shown *below*:
+- **(#)** describes that something is a single line comment and is ignored by the interpreter. When you want to delete certain blocks of code without deleting them then this is a way. An example of multiple lines commented is shown *below*:
 ```
 results = []
 for line in file_handle:
