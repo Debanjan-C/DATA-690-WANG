@@ -233,10 +233,41 @@ Output: True
 - Python is also known for its powerful and flexible built-in string processing capabilities.
     - One way to write strings is *single quotes* : `'one way'`
     - Second way to write strings is *double quotes* : `"second way"`
-- We also have multi-line strings written in the following format.
+- We also have multi-line strings with line breaks written in the following format.
     ```
     """
     This is a longer string that
     spans multiple lines
     """
     ```
+- Python strings are immutable and cannot be modified. 
+- 'str' function can be used to convert other objects to string.
+
+- *(+)* sign can be used in strings to merge two strings together.
+-The example below merger a and b strings into one.
+```
+a = 'this is the first half '
+b = 'and this is the second half'
+a + b
+```
+
+### 3. Bytes and Unicode
+- Unicode has turned into a *first-class string type* to enable more consistent handling of *ASCII and non-ASCII text*.
+- In earlier times, strings were all *bytes* without much *Unicode encoding*.
+
+### 4. Boolean
+- Two boolean values are either written as **true** or **false**. Conditional expressions either evaluate to True or False. Boolean values are generally combines with '*and*' or '*or*' keywords.
+`True and False evaluates to False`
+`True or False evaluates to True`
+
+### 4. Type casting
+- *str, bool, int and float* types are also functions can also be used to cast values to those types. 
+`True and False evaluates to False`
+`True or False evaluates to True`
+-Examples:
+`
+s = '3.14159'
+fval = float(s) -This is a type conversion from string ot float.
+`
+### I gave a few examples. There are also many more scalar type examples.
+
