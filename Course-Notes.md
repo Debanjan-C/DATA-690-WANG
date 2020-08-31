@@ -260,7 +260,7 @@ a + b
 `True and False evaluates to False`
 `True or False evaluates to True`
 
-### 4. Type casting
+### 5. Type casting
 - *str, bool, int and float* types are also functions can also be used to cast values to those types. 
 `True and False evaluates to False`
 `True or False evaluates to True`
@@ -270,4 +270,37 @@ s = '3.14159'
 fval = float(s) -This is a type conversion from string ot float.
 `
 ### I gave a few examples. There are also many more scalar type examples.
+
+## Control Flow
+### 1. if elif and else
+    - *If* first checks the initial condition and if it evaluates to true. 
+    - Following that *elif* checks if a second conditions is true or not and returns that.
+    - When none of them work, they look at the *Else* statement and return the statement returned by default. 
+    
+### 2. for loop
+    - Acts as an iterator and iterates over each variable in a list, tuple, etc. Syntax examples         is:
+    `
+    for value in collection:
+        # do something with value
+    `
+    - break keyword 
+        - It only terminates the inner loop and the outer loops will continue to run. 
+
+### 3. while loop
+    - executes a condition and block of code until a *False* condition is reached or the loop
+    ends with a break.
+    
+### 4. pass
+    -can be used in the blocks where no action is expected to be taken, so it can just go on.
+    
+### 5. range
+    -it will iterate and show a range of characters.
+    
+### 6. Ternary Expression
+    - allows you to combine *if-else* statements into one line. 
+### I gave a few common examples of control flow. There are also many more examples.
+
+
+
+    
 
