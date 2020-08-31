@@ -144,8 +144,8 @@ samplers, continuous distribution functions. It is also used for multiple statis
 ## Matplotlib Integration
 - Ipython also integrates well with *data visualization* and other *user interface libraries* like **matplotlib**. 
     - `%matplotlib` magic function configures its integrations with an IPython shell or Jupyter notebook.
-    1. Matplotlib command in *IPython shell*: `%matplotlib`
-    2. Matplotlib command in *Jupyter notebook*: `%matplotlib inline`
+    1. Matplotlib command in *IPython shell*: `%matplotlib`. Matplotlib sets up integration so multiple plot windows can be created without interfering the console session.
+    2. Matplotlib command in *Jupyter notebook*: `%matplotlib inline`. This command is used more often in the Jupyter notebook. 
 
 
   
